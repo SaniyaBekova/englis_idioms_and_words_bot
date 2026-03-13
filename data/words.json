@@ -1,0 +1,37 @@
+{
+    "words": [
+      {
+        "word": "ephemeral",
+        "definition": "lasting for a very short time",
+        "example": "The ephemeral nature of social media trends."
+      },
+      {
+        "word": "solipsism",
+        "definition": "the belief that one's own thoughts and feelings are the only reality",
+        "example": "He has a solipsistic view of the world."
+      },
+      {
+        "word": "apophenia",
+        "definition": "the tendency to see patterns in random data",
+        "example": "I see faces in the clouds."
+      }
+
+    ],
+    "idioms": [
+      {
+        "idiom": "bite the bullet",
+        "definition": "to endure a painful situation",
+        "example": "I just had to bite the bullet and finish the report."
+      },
+      {
+        "idiom": "break a leg",
+        "definition": "to wish someone good luck",
+        "example": "I'm going to break a leg at the concert."
+      },
+      {
+        "idiom": "come out of the closet",
+        "definition": "to reveal one's true identity",
+        "example": "He finally came out of the closet as a gay man."
+      }
+    ]
+  }
